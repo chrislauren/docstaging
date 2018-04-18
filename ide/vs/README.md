@@ -76,11 +76,11 @@ To do this, add a NuGet package source in Visual Studio. From menu "Tools" => "N
 
 - Package Manager Settings
 
-	![](/images/NuGetSettings.png)
+	![](./images/NuGetSettings.png)
 
 - Package Manager Source
 	
-	![](/images/NuGetSources.png)
+	![](./images/NuGetSources.png)
 
 ## Try it out!
 Some models are put in \\grgsi-91\Share\OpenMindStudio\BugBash\vs\2018-04\Assets to test model converter and visualization features.

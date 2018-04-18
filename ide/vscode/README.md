@@ -55,7 +55,7 @@ You can manually install a VS Code extension packaged in a .vsix file.
 
 Use the latest vsix file at \\grgsi-91\Share\OpenMindStudio\BugBash\vscode\2018-04\latest 
 
-![](/images/installfromvsix.png)
+![](./images/installfromvsix.png)
 
 ## Try it out!
 Some models are put in \\grgsi-91\Share\OpenMindStudio\BugBash\vs\2018-04\Assets to test model converter and visualization features.
